@@ -109,7 +109,7 @@ export default function Dashboard() {
         </div>}
         <div className="table-footer"><span><CalendarDays size={14} /> Dates are reminders, not food-safety guidance.</span><span className="backup-actions">Stored in this browser <button type="button" className="clear-filter" onClick={backup} data-testid="button-backup"><Download size={13} /> Back up</button> <label className="clear-filter" data-testid="button-restore"><Upload size={13} /> Restore<input type="file" accept="application/json,.json" hidden onChange={(e) => { restore(e.target.files?.[0]); e.target.value = ''; }} /></label></span></div>
       </section>
-      <footer className="page-footer"><span>PantryPal <span className="footer-separator">/</span> by PepSafe Studio</span><span>Dates alone can’t determine food safety. Use your own judgment and local guidance. <Link href="/privacy" data-testid="link-privacy">Privacy</Link> <span className="footer-separator">/</span> <a href="mailto:contact@pepsafe.info?subject=PantryPal%20feedback" data-testid="link-feedback">Send feedback</a></span></footer>
+      <footer className="page-footer"><span>PantryPal <span className="footer-separator">/</span> by NovoPix</span><span>Dates alone can’t determine food safety. Use your own judgment and local guidance. <Link href="/privacy" data-testid="link-privacy">Privacy</Link> <span className="footer-separator">/</span> <a href="mailto:contact@novopix.uk?subject=PantryPal%20feedback" data-testid="link-feedback">Send feedback</a></span></footer>
     </div>
     <nav className="mobile-nav" aria-label="Main navigation">
       <Link href="/" className="mobile-nav-item is-current" aria-current="page" data-testid="nav-pantry">

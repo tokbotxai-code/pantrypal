@@ -11,7 +11,7 @@ export default function Privacy() {
       <p>The app loads its fonts from Google Fonts, so your browser contacts Google to fetch them. We add no advertising or analytics tools.</p>
       <p>Because nothing is stored on our side, clearing your browser data removes your pantry. Use <strong>Back up</strong> on the pantry page to save a file, and <strong>Restore</strong> to bring it back.</p>
       <p>Dates in PantryPal are labels you entered. They are not food-safety advice.</p>
-      <p>Questions: <a href="mailto:contact@pepsafe.info">contact@pepsafe.info</a>. PantryPal is built by PepSafe Studio. Last updated 4 November 2026.</p>
+      <p>Questions: <a href="mailto:contact@novopix.uk">contact@novopix.uk</a>. PantryPal is built by NovoPix. Last updated 11 November 2026.</p>
       <Link href="/" className="back-link"><ArrowLeft size={15} /> Back to my pantry</Link>
     </section></div>
   </main>;

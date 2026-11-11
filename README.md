@@ -1,6 +1,6 @@
 # PantryPal
 
-A simple home pantry tracker by PepSafe Studio. Keep what you have, see which dates are coming up, and build a shopping list. No account needed: everything is saved in the browser on your device.
+A simple home pantry tracker by NovoPix. Keep what you have, see which dates are coming up, and build a shopping list. No account needed: everything is saved in the browser on your device.
 
 ## Features
 - Pantry items with quantity, unit, category, storage location (fridge, freezer, pantry, cupboard) and an optional use-by / best-before date

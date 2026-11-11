@@ -1,6 +1,6 @@
-# PantryPal: project rules (PepSafe Studio)
+# PantryPal: project rules (NovoPix)
 
-Small local-first pantry app. Owner: PepSafe Studio, contact `contact@pepsafe.info`. Language of the app: English (UK market).
+Small local-first pantry app. Owner: NovoPix, contact `contact@novopix.uk`. Language of the app: English (UK market).
 
 ## Hard rules
 - **Never give food-safety verdicts.** Show only the dates the user entered, labelled as reminders. No "safe", "unsafe", "still good", "spoiled".

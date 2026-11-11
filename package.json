@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "PantryPal: a simple home pantry and date tracker by PepSafe Studio",
+  "description": "PantryPal: a simple home pantry and date tracker by NovoPix",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build && node scripts/mirror-dist.mjs",
