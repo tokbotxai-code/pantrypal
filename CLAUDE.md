@@ -6,7 +6,7 @@ Small local-first pantry app. Owner: NovoPix, contact `contact@novopix.uk`. Lang
 - **Never give food-safety verdicts.** Show only the dates the user entered, labelled as reminders. No "safe", "unsafe", "still good", "spoiled".
 - No invented numbers, prices, user counts, release dates or screenshots, in the app or anywhere else.
 - **No secrets in the repo or in chat**: API keys, tokens, passwords and database URLs belong in the host's environment settings only. The repo may be public.
-- Do not add analytics, ads or third-party trackers. Fonts come from Google Fonts and the privacy page says so; if that changes, update `src/pages/Privacy.tsx`.
+- Do not add analytics, ads or third-party trackers. Fonts are hosted locally (`src/fonts`); the privacy page says so. If that changes, update `src/pages/Privacy.tsx`.
 - Do not claim accounts, sync or payments exist until they do.
 
 ## Work rules
