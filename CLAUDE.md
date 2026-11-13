@@ -32,3 +32,8 @@ Small local-first pantry app. Owner: NovoPix, contact `contact@novopix.uk`. Lang
 - Nie wystarczy „kod wygląda dobrze” ani test samej logiki. Obejrzyj wynik oczami użytkownika (zrzuty ekranu) i napraw każdą wadę przed oddaniem.
 - Gdy czegoś naprawdę nie da się sprawdzić (np. wymaga konta lub urządzenia właściciela), znajdź własny sposób (symulacja, inny przeglądarkowy test, zapasowy kanał). Dopiero gdy to niemożliwe, napisz **jedno zdanie**, czego dokładnie nie sprawdzono i dlaczego tylko właściciel może to zrobić. Nie oddawaj tego jako gotowego.
 - W raporcie podawaj, **co sprawdziłeś i z jakim wynikiem**, a nie listę rzeczy niesprawdzonych. Praca niedokończona jest dokończona przed oddaniem albo wprost nazwana „w toku” z terminem.
+
+## Bez pytań o zgodę (decyzja właściciela 13.11, obowiązuje stale)
+- **Nie pytaj właściciela o zgodę ani zatwierdzenie.** Sesje działają w trybie auto: wybierz sam najlepszą opcję, wykonaj, na końcu krótki raport (co zrobiono i co sprawdzono).
+- Dotyczy planowania, zmieniania i usuwania postów w Metricool, pushów na GitHub, wdrożeń, zakładania sesji i zmian zaplanowanych zadań. Pytaj tylko, gdy czegoś nie da się zrobić bez konta, hasła, PIN-u, płatności albo kliknięcia właściciela w panelu (wtedy: jedno zdanie, jeden krok, telefon lub komputer).
+- Zasady jakości, bezpieczeństwa i marek (PepSafe, Night, NovoPix osobno) obowiązują dalej. Bez sekretów w repo i czacie.
